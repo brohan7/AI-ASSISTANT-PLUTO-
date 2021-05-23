@@ -5,23 +5,23 @@ This is AI Assistant  which is created using Python and some libraries of Python
 
 This Code is being run by various libraries that will make the work easier 
 like :
-import pyttsx3 
-import datetime 
-import speech_recognition as sr
-import wikipedia 
-import smtplib
-import webbrowser 
-import os
-import pyautogui 
-import psutil 
-import pyjokes 
-import random
-import operator
-import json
-import wolframalpha
-import time
-from urllib.request import urlopen
-import requests
+import pyttsx3, 
+import datetime, 
+import speech_recognition,
+import wikipedia, 
+import smtplib,
+import webbrowser, 
+import os,
+import pyautogui, 
+import psutil, 
+import pyjokes, 
+import random,
+import operator,
+import json,
+import wolframalpha,
+import time,
+from urllib.request import urlopen,
+import requests and 
 import winshell 
 
 
