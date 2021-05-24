@@ -3,9 +3,8 @@ This is AI Assistant  which is created using Python and some libraries of Python
 
 
 
-This Code is being run by various libraries that will make the work easier 
-like :
-1.import pyttsx3, 
+## This Code is being run by various libraries that will make the work easier like :
+<br> 1.import pyttsx3 </br> 
 2.import datetime, 
 3.import speech_recognition,
 4.import wikipedia, 
