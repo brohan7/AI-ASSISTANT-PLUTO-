@@ -5,26 +5,27 @@ This is AI Assistant  which is created using Python and some libraries of Python
 
 ## This Code is being run by various libraries that will make the work easier like :
 <br> 1.import pyttsx3 </br> 
-2.import datetime, 
-3.import speech_recognition,
-4.import wikipedia, 
-5.import smtplib,
-6.import webbrowser, 
-7.import os,
-8.import pyautogui, 
-9.import psutil, 
-10.import pyjokes, 
-11.import random,
-12.import operator,
-13.import json,
-14.import wolframalpha,
-15.import time,
-16.from urllib.request import urlopen,
-17.import requests and 
-18.import winshell 
+<br> 2.import datetime </br> 
+<br> 3.import speech_recognition </br>
+<br> 4.import wikipedia </br> 
+<br> 5.import smtplib</br> 
+<br> 6.import webbrowser </br>
+<br> 7.import os </br>
+<br> 8.import pyautogui </br> 
+<br> 9.import psutil </br>
+<br> 10.import pyjokes </br>
+<br> 11.import random </br>
+<br> 12.import operator </br>
+<br> 13.import json </br>
+<br> 14.import wolframalpha </br>
+<br> 15.import time </br>
+<br> 16.from urllib.request import urlopen </br>
+<br> 17.import requests </br>
+<br> 18.import winshell </br>
 
 
 ## IMPORT ALL THE NECESSARY FILES AND IT WILL WORK VERY SMOOTHLY 
+
 
 
 ## Support ❤
