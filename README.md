@@ -24,6 +24,9 @@ This is AI Assistant  which is created using Python and some libraries of Python
 <br> 18.import winshell </br>
 
 
+<br>This Assistant will make the work easier for you in your day to day life as it will do all the necessary work in your system like telling time ,  setting reminder,  telling news , googling things for you , screenshot things, sending emails, telling the weather,  making notes and many other stuff that will amaze you </br>
+
+
 ## IMPORT ALL THE NECESSARY FILES AND IT WILL WORK VERY SMOOTHLY 
 
 
